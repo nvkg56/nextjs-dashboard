@@ -1,3 +1,13 @@
 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
 
 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
+
+
+POSTGRES_URL="postgres://default:OZ3YQs1wWCXR@ep-tiny-silence-a1k89blt-pooler.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require"
+POSTGRES_PRISMA_URL="postgres://default:OZ3YQs1wWCXR@ep-tiny-silence-a1k89blt-pooler.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require&pgbouncer=true&connect_timeout=15"
+POSTGRES_URL_NO_SSL="postgres://default:OZ3YQs1wWCXR@ep-tiny-silence-a1k89blt-pooler.ap-southeast-1.aws.neon.tech:5432/verceldb"
+POSTGRES_URL_NON_POOLING="postgres://default:OZ3YQs1wWCXR@ep-tiny-silence-a1k89blt.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require"
+POSTGRES_USER="default"
+POSTGRES_HOST="ep-tiny-silence-a1k89blt-pooler.ap-southeast-1.aws.neon.tech"
+POSTGRES_PASSWORD="OZ3YQs1wWCXR"
+POSTGRES_DATABASE="verceldb"
